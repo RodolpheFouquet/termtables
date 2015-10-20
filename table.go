@@ -1,12 +1,12 @@
-// Copyright 2012-2013 Apcera Inc. All rights reserved.
+// Copyright 2012-2013 RodolpheFouquet Inc. All rights reserved.
 
 package termtables
 
 import (
 	"strings"
 
-	"github.com/apcera/termtables/locale"
-	"github.com/apcera/termtables/term"
+	"github.com/RodolpheFouquet/termtables/locale"
+	"github.com/RodolpheFouquet/termtables/term"
 )
 
 // MaxColumns represents the maximum number of columns that are available for
