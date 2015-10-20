@@ -1,8 +1,9 @@
 # Termtables
 
-FORKED FROM https://github.com/apcera/termtables
+[FORKED FROM](https://github.com/apcera/termtables)
 
-[![Build Status](https://travis-ci.org/RodolpheFouquet/termtables.svg?branch=master)](https://travis-ci.org/RodolpheFouquet/termtables)
+[![Build
+Status](https://travis-ci.org/RodolpheFouquet/termtables.svg)](https://travis-ci.org/RodolpheFouquet/termtables)
 
 A [Go](http://golang.org) port of the Ruby library [terminal-tables](https://github.com/visionmedia/terminal-table) for
 fast and simple ASCII table generation.
