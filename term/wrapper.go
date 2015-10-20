@@ -1,4 +1,4 @@
-// Copyright 2013 Apcera Inc. All rights reserved.
+// Copyright 2013 RodolpheFouquet Inc. All rights reserved.
 
 // +build ignore
 
@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/apcera/termtables/term"
+	"github.com/RodolpheFouquet/termtables/term"
 )
 
 func main() {

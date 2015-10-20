@@ -1,4 +1,4 @@
-// Copyright 2013 Apcera Inc. All rights reserved.
+// Copyright 2013 RodolpheFouquet Inc. All rights reserved.
 
 // +build ignore
 
@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/apcera/termtables/locale"
+	"github.com/RodolpheFouquet/termtables/locale"
 )
 
 func main() {
